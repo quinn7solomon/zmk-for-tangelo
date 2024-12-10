@@ -14,10 +14,10 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: zero46_left
+    shield: zero46_peripheral_left
 
   - board: nice_nano_v2
-    shield: zero46_right
+    shield: zero46_peripheral_right
 
   - board: nice_nano_v2
     shield: zero46_central_dongle
