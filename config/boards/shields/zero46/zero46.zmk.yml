@@ -1,0 +1,13 @@
+file_format: "1"
+id: zero46
+name: Zero46
+type: shield
+url:
+requires:
+  - pro_micro
+exposes:
+features:
+  - keys
+siblings:
+  - zero46_left
+  - zero46_right
